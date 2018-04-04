@@ -24,10 +24,10 @@ nav:
 # only 'mail' is an exception.
 social_links:
   github: http://github.com/sthtodo
-  twitter: /
-  facebook: /
-  linkedin: /
-  mail: 
+  # twitter: /
+  # facebook: /
+  # linkedin: /
+  # mail: 
 
 
 # Customize the overview with the most recent blog posts on the index page.
