@@ -1,6 +1,9 @@
 <% if (index) { %>
     <% if (post.link) { %>
         <a class="<%= class_name %>" href="<%- url_for(post.link) %>" target="_blank" itemprop="url"><%= post.title %></a>
+        <% if (post.content) { %>
+        <a class="icon" href="<%- url_for(post.path) %>"><i class="fas fa-angle-double-right"></i></a>
+        <% } %>
     <% } else if (post.title) { %>
         <a class="<%= class_name %>" href="<%- url_for(post.path) %>"><%= post.title %></a>
     <% } else { %>

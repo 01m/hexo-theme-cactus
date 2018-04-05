@@ -15,7 +15,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: projects_url
+  projects: https://github.com/sthtodo
 
 
 # Links to your social media accounts.
@@ -23,7 +23,7 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/sthtodo
+  github: https://github.com/sthtodo
   # twitter: /
   # facebook: /
   # linkedin: /
