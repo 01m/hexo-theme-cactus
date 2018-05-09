@@ -17,6 +17,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
+  resume: /resume/
   projects: https://github.com/sthtodo
 
 
@@ -26,9 +27,10 @@ nav:
 # only 'mail' is an exception.
 social_links:
   github: https://github.com/sthtodo
+  instagram: https://www.instagram.com/werefilm/
   # twitter: /
   # facebook: /
-  # linkedin: /
+  linkedin: https://www.linkedin.com/in/jiema://www.linkedin.com/in/jiema/ 
   # mail: 
 
 
