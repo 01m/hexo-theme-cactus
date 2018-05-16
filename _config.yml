@@ -100,7 +100,7 @@ feature_post: true
 ##############################################################################
 
 # Enable or disable the RSS feed.
-rss: false
+rss: atom.xml
 
 # Turn your web pages into graph objects (see http://ogp.me).
 open_graph: 
