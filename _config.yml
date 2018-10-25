@@ -22,7 +22,7 @@ nav:
 
 
 # Links to your social media accounts.
-# The keys should correspond to Fontawesome icon names 
+# The keys should correspond to Fontawesome icon names
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
@@ -33,6 +33,9 @@ social_links:
   linkedin: https://www.linkedin.com/in/jiema
   # mail: 
 
+# Customize the overview with displaying a tagcloud on the index page.
+# Options: https://hexo.io/docs/helpers.html#tagcloud
+tags_overview: false
 
 # Customize the overview with the most recent blog posts on the index page.
 # Options:
@@ -69,7 +72,7 @@ logo:
 # Options:
 #   - url: where the icon can be found
 #   - gravatar: whether to create a favicon from your Gravatar
-favicon: 
+favicon:
   desktop:
     url: /images/favicon.ico
     gravatar: false
@@ -103,7 +106,7 @@ feature_post: true
 rss: atom.xml
 
 # Turn your web pages into graph objects (see http://ogp.me).
-open_graph: 
+open_graph:
   fb_app_id:
   fb_admins:
   twitter_id:
@@ -115,7 +118,7 @@ open_graph:
 ##############################################################################
 
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
-disqus: 
+disqus:
   enabled: false
   shortname: cactus-1
 
