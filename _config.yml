@@ -18,7 +18,7 @@ nav:
   about: /about/
   articles: /archives/
   resume: /resume/
-  projects: https://github.com/01m
+  projects: https://github.com/0xApe
 
 
 # Links to your social media accounts.
@@ -26,7 +26,7 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: https://github.com/01m
+  github: https://github.com/0xApe
   instagram: https://www.instagram.com/filmape/
   # twitter: /
   # facebook: /
@@ -41,9 +41,23 @@ tags_overview: false
 # Options:
 #   - show_all_posts: whether to show all available posts.
 #   - post_count: whether to show only the x most recent posts.
+#   - sort_updated: sort posts by last modification date instead of creation date.
 posts_overview:
   show_all_posts: false
   post_count: 5
+  sort_updated: false
+
+# Customize the archive view.
+# Options:
+#   - sort_updated: sort posts by last modification date instead of creation date.
+archive:
+  sort_updated: false
+
+# Customize the article view.
+# Options:
+#   - show_updated: show the last modification date.
+post:
+  show_updated: false
 
 ##############################################################################
 # Look and Feel
@@ -135,4 +149,4 @@ baidu_analytics:
 # Fill in you Gravatar user id / email if you want to use your gravatar as the
 # logo and/or favicons of you website.
 gravatar:
-  email: name@email.com
+  email: codejma@gmail.com
